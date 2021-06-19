@@ -1,0 +1,13 @@
+.side-img img{    
+    height: 350px;
+    width: 50%;
+    margin-left: 400px;
+    
+}
+.testimonil-header{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.testimonil-header h2{
+    font-weight: bolder;
+}

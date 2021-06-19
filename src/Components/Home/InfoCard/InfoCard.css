@@ -1,0 +1,14 @@
+.info-primary{
+    background-color:#2acbc5;
+}
+.info-secondary{
+    background-color: #3d4559;
+}
+.info-icon{
+    font-size: 3em;
+    margin: 15px;
+}
+.info-container{
+    height: 120px;
+    padding: 40px;
+}
